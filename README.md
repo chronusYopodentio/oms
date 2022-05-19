@@ -11,13 +11,13 @@ Tasks:
 Database:
 
 .customers table
-cid		name	phone		address		fb
+|cid		name	phone		address		fb|
 
 .products table
-pid		name	instock		price		cost	desc
+|pid		name	instock		price		cost	desc|
 
 .orders table
-oid		cid		pid			qty			date	status
+|oid		cid		pid			qty			date	status|
 
 
 
